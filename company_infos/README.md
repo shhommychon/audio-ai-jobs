@@ -1,6 +1,6 @@
 ## 회사 정보
 
-- last updated: 2022.05.20.
+- last updated: 2022.05.23.
 
 
 
@@ -13,6 +13,10 @@
 
 
 ### 2. 음성
+
+| 회사명                                  | 구분            | 링크                                                         | 비고                                           |
+| --------------------------------------- | --------------- | ------------------------------------------------------------ | ---------------------------------------------- |
+| [자이냅스](./speech/Xinapse.md)            | 음성/챗봇및음성엔진 | [![홈페이지](../.ico/home-32x32.png)](https://www.xinapse.ai/) [![프로그래머스](../.ico/programmers-32x32.png)](https://programmers.co.kr/companies/4030) [![로켓펀치](../.ico/rocketpunch-32x32.png)](https://www.rocketpunch.com/companies/fountai-2) <br/>[![원티드](../.ico/wanted-32x32.png)](https://www.wanted.co.kr/company/3305) [![잡코리아](../.ico/jobkorea-32x32.png)](https://www.jobkorea.co.kr/Super/xinapse) | 인공지능 및 빅데이터, 자연어처리 기술 기반 연구 스타트업 |
 
 
 
