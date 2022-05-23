@@ -18,24 +18,24 @@
 
 ## [인터뷰 질문 정보](./job_interview_questions)
 
-### 1. Machine Learning
+### 1. [Machine Learning](./job_interview_questions/machine_learning)
 
 - Statistics and Machine Learning
-- Deep Learning
+- [Deep Learning](./job_interview_questions/machine_learning/deep_learning.md)
 - Mathematical Optimization
 - Linear Algebra
 
-### 2. Audio and Signal Processing
+### 2. [Audio and Signal Processing](./job_interview_questions/audio_signal_processing)
 
 - Audio Signal Data
 - MIDI Data
 
-### 3. Programming
+### 3. [Programming](./job_interview_questions/programming)
 
 - Python
 - PyTorch/TensorFlow
 
-### 4. Computer Science
+### 4. [Computer Science](./job_interview_questions/computer_science)
 
 - Data Structure
 - Algorithm

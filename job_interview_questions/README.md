@@ -4,25 +4,26 @@
 
 
 
-### 1. Machine Learning
+- ### 1. [Machine Learning](./machine_learning)
 
-- Statistics and Machine Learning
-- Deep Learning
-- Mathematical Optimization
-- Linear Algebra
+  - Statistics and Machine Learning
+  - [Deep Learning](./machine_learning/deep_learning.md)
+    - CNN과 Vision Transformer의 차이는 무엇인가요?
+  - Mathematical Optimization
+  - Linear Algebra
 
-### 2. Audio and Signal Processing
+  ### 2. [Audio and Signal Processing](./audio_signal_processing)
 
-- Audio Signal Data
-- MIDI Data
+  - Audio Signal Data
+  - MIDI Data
 
-### 3. Programming
+  ### 3. [Programming](./programming)
 
-- Python
-- PyTorch/TensorFlow
+  - Python
+  - PyTorch/TensorFlow
 
-### 4. Computer Science
+  ### 4. [Computer Science](./computer_science)
 
-- Data Structure
-- Algorithm
+  - Data Structure
+  - Algorithm
 
