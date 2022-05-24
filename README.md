@@ -1,6 +1,6 @@
 ![logo](logo.png)
 
-- last updated: 2022.05.23.
+- last updated: 2022.05.24.
 
 
 
@@ -13,6 +13,7 @@
 | [사운더블헬스](./company_infos/audio/SoundableHealth.md) | 오디오/헬스         | [![홈페이지](.ico/home-32x32.png)](https://www.soundable.health/) [![프로그래머스](.ico/programmers-32x32.png)](#) [![로켓펀치](.ico/rocketpunch-32x32.png)](https://www.rocketpunch.com/companies/soundable-health-inc) <br/>[![원티드](.ico/wanted-32x32.png)](https://www.wanted.co.kr/company/5189) [![잡코리아](.ico/jobkorea-32x32.png)](#) | 오디오 기술 기반 헬스케어 스타트업                       |
 | [스마트사운드](./company_infos/audio/SmartSound.md)      | 오디오/헬스         | [![홈페이지](.ico/home-32x32.png)](http://www.ismartsound.com/ko/) [![프로그래머스](.ico/programmers-32x32.png)](#) [![로켓펀치](.ico/rocketpunch-32x32.png)](https://www.rocketpunch.com/companies/smartsound) <br/>[![원티드](.ico/wanted-32x32.png)](#) [![잡코리아](.ico/jobkorea-32x32.png)](https://www.jobkorea.co.kr/company/44611925) | 오디오 기술 기반 헬스케어 기업                           |
 | [자이냅스](./company_infos/speech/Xinapse.md)            | 음성/챗봇및음성엔진 | [![홈페이지](.ico/home-32x32.png)](https://www.xinapse.ai/) [![프로그래머스](.ico/programmers-32x32.png)](https://programmers.co.kr/companies/4030) [![로켓펀치](.ico/rocketpunch-32x32.png)](https://www.rocketpunch.com/companies/fountai-2) <br/>[![원티드](.ico/wanted-32x32.png)](https://www.wanted.co.kr/company/3305) [![잡코리아](.ico/jobkorea-32x32.png)](https://www.jobkorea.co.kr/Super/xinapse) | 인공지능 및 빅데이터, 자연어처리 기술 기반 연구 스타트업 |
+| [포자랩스](./company_infos/music/PozaLabs.md)            | 음악/AI작곡         | [![홈페이지](.ico/home-32x32.png)](https://pozalabs.com/) [![프로그래머스](.ico/programmers-32x32.png)](https://programmers.co.kr/companies/2308) [![로켓펀치](.ico/rocketpunch-32x32.png)](https://www.rocketpunch.com/@contacte176cc2e) <br/>[![원티드](.ico/wanted-32x32.png)](https://www.wanted.co.kr/company/9205) [![잡코리아](.ico/jobkorea-32x32.png)](https://www.jobkorea.co.kr/Recruit/Co_Read/C/pozalabs) | AI 작곡을 이용한 대규모 음원 생성 자동화                 |
 
 
 
